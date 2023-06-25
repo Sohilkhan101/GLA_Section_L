@@ -15,7 +15,6 @@ public class Swap2 {
 		int temp = arr[0];
 		arr[0] = brr[0];
 		brr[0] = temp;
-
 	}
 
 }
